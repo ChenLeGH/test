@@ -1,3 +1,0 @@
-<?pHP
-phpinfo(
-
